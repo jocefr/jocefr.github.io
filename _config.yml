@@ -1,16 +1,14 @@
 title: "Vanstone Nurseries"
 email: "info@vanstonenurseries.com"
 description: >- # this means to ignore newlines until "baseurl:"
- Trade - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+ Vanstone Nurseries supplying garden centres in ON, MB, SK, AB
 baseurl: "/VanstoneWebsite" # the subpath of your site, e.g. /blog
 url: "https://jocefr.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://tradejk.netlify.com
 facebook_url: https://www.facebook.com/vanstonenurseries/
 twitter_url: https://twitter.com/vanstoneplants
 instagram_url: https://www.instagram.com/vanstonenurseries/
-logo: "/assets/img/logo/logo.png"
-logo_2: "/assets/img/logo/logo_2.png"
-mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
-mailchimp_input_name: "b_307862c135e4548eecf86f389_342411fb35"
+logo: "VanstoneWebsite/assets/img/logo/logo.png"
+logo_2: "VanstoneWebsite/assets/img/logo/logo_2.png"
 
 permalink: "/:title"
 
