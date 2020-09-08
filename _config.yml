@@ -7,8 +7,8 @@ url: "https://jocefr.github.io" # the base hostname & protocol for your site, e.
 facebook_url: https://www.facebook.com/vanstonenurseries/
 twitter_url: https://twitter.com/vanstoneplants
 instagram_url: https://www.instagram.com/vanstonenurseries/
-logo: "VanstoneWebsite/assets/img/logo/logo.png"
-logo_2: "VanstoneWebsite/assets/img/logo/logo_2.png"
+logo: "assets/img/logo/logo.png"
+logo_2: "assets/img/logo/logo_2.png"
 
 permalink: "/:title"
 

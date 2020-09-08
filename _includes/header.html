@@ -5,7 +5,7 @@
             <div class="row align-items-center">
                 <div class="col-xl-2 col-lg-2 col-md-3 col-sm-5">
                     <div class="logo">
-                        <a href="{{site.url}}"><img src="{{site.logo}}" class="img-fluid" alt="{{site.title}}"></a>
+                        <a href="{{site.url}}"><img src="/{{site.logo}}" class="img-fluid" alt="{{site.title}}"></a>
                     </div>
                 </div>
                 <div class="col-xl-9 col-lg-9 text-right">
@@ -27,10 +27,10 @@
                     <div class="mobile-menu"></div>
                 </div>
             </div>
-            <div class="offcanvas-menu">
+            <!--<div class="offcanvas-menu">
              {% include offcanvas_menu.html %}
             </div>
-            <div class="offcanvas-overly"></div>
+            <div class="offcanvas-overly"></div>-->
         </div>
     </div>
 </header>
@@ -39,7 +39,7 @@
     <div class="modal-dialog modal-xl" role="document">
         <div class="modal-content">
             <form>
-                <input type="text" id="search-input" placeholder="Search blog posts..">
+                <input type="text" id="search-input" placeholder="Search...">
                 <button><i class="fa fa-search"></i></button>
             </form>
             <ul id="results-container"></ul>
