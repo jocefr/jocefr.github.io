@@ -170,6 +170,8 @@
     nav: false,
     dots: false,
     autoplay: true,
+    autoplayTimeout:8000,
+    autoplaySpeed: 1000,
     responsive: {
       0: {
         items: 1
