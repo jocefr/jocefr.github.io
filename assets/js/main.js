@@ -162,11 +162,14 @@
 
   // testimonial
 
+  var owl = $('.owl-carousel');
+
   $(".testimonial-active").owlCarousel({
     loop: true,
     margin: 10,
     nav: false,
     dots: false,
+    autoplay: true,
     responsive: {
       0: {
         items: 1
@@ -177,8 +180,18 @@
       1000: {
         items: 1
       }
-    }
+    },
+    // Randomize the slides
+    onInitialize : function(element){
+      console.log("Initializing")
+      owl.children().sort(function(){
+          return Math.round(Math.random()) - 0.5;
+      }).each(function(){
+          $(this).appendTo(owl);
+      });
+  }
   });
+
 
   // portfolio
   $(".portfolio-active").isotope({

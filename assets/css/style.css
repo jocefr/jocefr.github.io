@@ -1371,12 +1371,12 @@ label {
 	font-family: "Open Sans";
 }
 .footer-widget a:hover {
-	color: #523e39;
-	font-size: 18px;
+	color:#2b2b2b;
+	font-family: "Open Sans";
 }
 .footer-widget a {
 	color: #000;
-	font-size: 18px;
+	font-family: "Open Sans";
 }
 .subscribe-form {
 	position: relative;
