@@ -2002,3 +2002,13 @@ blockquote {
 	top: 0;
 	width: 100%;
 }
+
+/* Home */
+.explore-plants img {
+	width: 90%;
+	max-width: 360px;
+	height: auto;
+}
+.explore-plants p {
+	text-align: center;
+}
