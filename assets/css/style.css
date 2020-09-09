@@ -25,9 +25,9 @@
 
 
 /* 1. Theme default css */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700|Open+Sans:400,700');
  body {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'PT Sans', sans-serif;
 	font-weight: normal;
 	font-style: normal;
 	font-size: 14px;
@@ -86,7 +86,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
 	color: #000;
 	margin-top: 0px;
@@ -294,7 +294,6 @@ label {
 	font-size: 15px;
 	padding: 35px 0;
 	display: block;
-	font-weight: 600;
 	position: relative;
 }
 .main-menu.second-menu ul li a {
@@ -1170,7 +1169,6 @@ label {
 .client-text {
 	font-size: 16px;
 	line-height: 28px;
-	font-weight: 600;
 	font-style: italic;
 	margin-bottom: 36px;
 	position: relative;
@@ -1184,8 +1182,7 @@ label {
 	top: 0;
 	font-style: normal;
 	font-size: 27px;
-	color:#4A7729
-	;
+	color: #4A7729;
 }
 .client-text::after {
 	position: absolute;
@@ -1196,8 +1193,7 @@ label {
 	bottom: 0;
 	font-style: normal;
 	font-size: 27px;
-	color:#4A7729
-	;
+	color: #4A7729;
 }
 .testimonial-items img {
 	border-radius: 50%;
@@ -1211,7 +1207,6 @@ label {
 }
 .testimonial-items span {
 	font-size: 14px;
-	font-style: italic;
 }
 .testimonial-active.owl-carousel .owl-item img {
 	display: inline-block;
@@ -1370,7 +1365,7 @@ label {
 	color:#000;
 }
 .footer-widget ul li a {
-	color: #4A7729;
+	color: #2b2b2b;
 	text-transform: capitalize;
 }
 .footer-widget a:hover {
@@ -1378,7 +1373,7 @@ label {
 	font-weight: bold;
 }
 .footer-widget a {
-	color: #4a7729;
+	color: #2b2b2b;
 	font-weight: bold;
 }
 .subscribe-form {
