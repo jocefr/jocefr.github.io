@@ -1,3 +1,10 @@
+/* All large devices (not medium or below) */
+@media (min-width: 992px) {
+	.breadcrumb-area {
+		margin-top: 40px;
+	}
+}
+
 /* XL Device :1200px. */
 @media (min-width: 1200px) and (max-width: 1500px) {
 

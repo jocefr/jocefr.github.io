@@ -1,8 +1,10 @@
 #Please use the main menu items under the "text"
 - text: Our Plants
   url: /pages/about
-- text: Ordering & Availability
+- text: Ordering
   url: /pages/ordering
+- text: Customer Resources
+  url: /pages/resources
 - text: Find a Retailer
   url: /pages/retailer
 - text: Our Story
