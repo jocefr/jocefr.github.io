@@ -8,7 +8,6 @@
 
 
 
-
 }
 
 /* LG Device :992px. */
@@ -149,6 +148,9 @@ blockquote {
 
 /* Extra small Device. */
 @media (max-width: 767px) {
+.desktop-logo {
+	visibility: hidden;
+}
 .header-top.blue-bg {
 	padding: 10px 0;
 }
