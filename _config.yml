@@ -20,12 +20,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-#cover_image: "/assets/img/bg/page-title.jpg"
 
-#jekyll-assets plugin
-assets:
-  compression: true
-  gzip: true
+#cover_image: "/assets/img/bg/page-title.jpg"
 
 #collections
 collections:
