@@ -22,6 +22,10 @@ plugins:
 
 #cover_image: "/assets/img/bg/page-title.jpg"
 
+#jekyll-assets plugin
+assets:
+  compression: true
+  gzip: true
 
 #collections
 collections:
