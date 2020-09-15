@@ -1,5 +1,8 @@
 ---
+
 layout: plant
+categories: Perennials
+tags: [hosta]
 
 name: Ann Kulpa	Hosta
 picture: /assets/img/plants/P-HOSXAK.jpg

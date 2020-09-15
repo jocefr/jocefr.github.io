@@ -1,5 +1,8 @@
 ---
+
 layout: plant
+categories: Perennials
+tags: [lupin, mini-gallery]
 
 name: Mini-Gallery Blue-White Lupine
 picture: /assets/img/plants/P-LUPXMGBW.jpg

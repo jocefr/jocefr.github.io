@@ -1378,18 +1378,18 @@ label {
 	color: #000;
 	font-family: "Open Sans";
 }
-.subscribe-form {
+.search-widget {
 	position: relative;
 	overflow: hidden;
 }
-.subscribe-form input {
+.search-widget input {
 	width: 100%;
 	padding: 14px 28px;
 	background: #2E2E2E;
 	border: 1px solid #2E2E2E;
 	color: #fff;
 }
-.subscribe-form button {
+.search-widget button {
     position: absolute;
     right: 0;
 	background:#4A7729
@@ -1399,7 +1399,7 @@ label {
 	;
     top: 0;
 }
-.subscribe-form button i {
+.search-widget button i {
 	color: #fff;
 	font-size: 22px;
 	transform: rotate(-6deg);

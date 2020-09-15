@@ -27,6 +27,7 @@ plugins:
 collections:
   plants:
     output: true
+  
 
 
 ########################################################
