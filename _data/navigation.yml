@@ -1,6 +1,6 @@
 #Please use the main menu items under the "text"
 - text: Our Plants
-  url: /pages/about
+  url: /pages/plants
 - text: Ordering
   url: /pages/ordering
 - text: Customer Resources

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% include header.html %}
+<main> 
+<section class="plant-info pt-70 pb-35">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+
+                {% if page.picture %}
+                <p><img src="{{ page.picture }}" alt="{{ page.name | downcase }}" class="img-fluid"></p>
+                {% endif %}
+
+                <h3>{{ page.botanical-name }}</h3>
+
+            </div>
+        </div>
+    </div>
+</section>
+</main>

@@ -1133,7 +1133,7 @@ label {
 	cursor: pointer;
 }
 .portfolio-menu > button:hover, .portfolio-menu > button.active{
-	color:#4A7729
+	color:#4A7729;
 	;
 }
 .project-details-title h3 {
@@ -2011,4 +2011,9 @@ blockquote {
 }
 .explore-plants p {
 	text-align: center;
+}
+
+.plant-card h2 {
+	font-size: 18px;
+	color: #4A7729;
 }

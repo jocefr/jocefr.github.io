@@ -25,10 +25,9 @@ plugins:
 
 #collections
 collections:
-  features:
+  plants:
     output: true
-  services:
-    output: true
+
 
 ########################################################
 # Site configuration for the Jekyll 3 Pagination Gem

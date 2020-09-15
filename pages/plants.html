@@ -1,0 +1,20 @@
+---
+layout: page
+title: Vanstone Nurseries Plant Collection
+---
+
+
+<section class="plant-grid pt-35 pb-70">
+    <div class="container">
+        <div class="row">
+            {% for plant in site.plants %}
+                <div class="plant-card col-md-4 col-lg-3 col-sm-6">
+                    <a href="{{ plant.url}}">
+                    <p><img src = "{{ plant.picture }}" class="img-fluid"></p>
+                    <h2>{{ plant.name }}</h2>
+                </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
