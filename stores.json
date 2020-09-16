@@ -1,0 +1,40 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-97.353604,
+                    49.860682
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "",
+                "description": "7250 Roblin Blvd Headingley, MB",
+                "name": "A. Paterson Bedding Plants",
+                "website": "",
+                "phone": "(204) 930-5270",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-99.985674,
+                    49.823298
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "patisserie",
+                "hours": "",
+                "description": "Site 400, Box 30, RR#1, Brandon, MB",
+                "name": "Alternative Choice Garden Centre",
+                "website": "https://www.alternativelandscapingltd.com/garden-center",
+                "phone": "(204) 727-7289",
+                "storeid": "02"
+            }
+        }
+    ]
+}
