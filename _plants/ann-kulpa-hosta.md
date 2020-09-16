@@ -1,7 +1,7 @@
 ---
 
 layout: plant
-categories: Perennials
+category: Perennials
 tags: [hosta]
 
 name: Ann Kulpa	Hosta

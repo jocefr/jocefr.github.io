@@ -3,8 +3,8 @@
   url: /pages/plants
 - text: Ordering
   url: /pages/ordering
-- text: Customer Resources
-  url: /pages/resources
+#- text: Customer Resources
+#  url: /pages/resources
 - text: Find a Retailer
   url: /pages/retailer
 - text: Our Story
