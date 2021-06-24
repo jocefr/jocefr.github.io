@@ -6,15 +6,23 @@ layout: default
 <section class="plant-info pt-70 pb-35">
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col">
 
                 {% if page.picture %}
                 <p><img src="{{ page.picture }}" alt="{{ page.name | downcase }}" class="img-fluid"></p>
                 {% endif %}
-
-                <h3>{{ page.botanical-name }}</h3>
-
             </div>
+
+            <div class="col">
+                <h1>{{ page.botanical-name }}</h1>
+                <p>{{ page.description }}</p>
+
+                <div class ="product-meta">
+                    <p>Exposure: {{page.exposure}}<br>Hardiness: {{page.hardiness}}</p>
+                    
+                </div>
+
+            </div>                
         </div>
     </div>
 </section>

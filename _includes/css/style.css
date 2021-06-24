@@ -104,7 +104,8 @@ h6 a {
 }
 h1 {
 	font-size: 40px;
-	font-weight: 500;
+	font-weight: 600;
+	color: #4a7729;
 }
 h2 {
 	font-size: 35px;
@@ -1567,7 +1568,7 @@ label {
 	margin-bottom: 20px;
 }
 .meta-info ul li:first-child{padding-left:0}
-.meta-info ul li a{color#4A7729
+.meta-info ul li a{color:#4A7729
 }
 .meta-info ul li a:hover{color:#444}
 .meta-info ul li::before {
@@ -1684,7 +1685,7 @@ label {
 	text-indent: 0;
 	transition: all 0.2s ease 0s;
 }
-.sidebar-rc-post .rc-post-content h4 a:hover{color#4A7729
+.sidebar-rc-post .rc-post-content h4 a:hover{color:#4A7729
 }
 .widget-date {
 	color: #777;
@@ -1735,7 +1736,7 @@ label {
   font-weight: bold;
   padding-left: 5px;
 }
-.sidebar-link li a:hover{color#4A7729
+.sidebar-link li a:hover{color:#4A7729
 }
 .sidebar-link li span{float:right;}
 .widget-banner img {
@@ -1766,7 +1767,7 @@ label {
 	text-transform: uppercase;
 	margin: 5px;
 }
-.sidebar-tad  a:hover{background#4A7729
+.sidebar-tad  a:hover{background:#4A7729
 	;color:#fff}
 /* blog column */
 .blog-column .blog-title {
@@ -2016,4 +2017,13 @@ blockquote {
 .plant-card h2 {
 	font-size: 18px;
 	color: #4A7729;
+}
+
+
+
+/* Plant Product Page */
+.product-meta {
+    font-size: 80%;
+    border-top: 1px solid rgba(0,0,0,.1);
+    padding-top: 30px;
 }
