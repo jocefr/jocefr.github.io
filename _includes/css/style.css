@@ -1364,20 +1364,20 @@ label {
 	margin-bottom: 8px;
 }
 .footer-widget ul li a:hover{
-	color:#2b2b2b;
-	font-family: "Open Sans";
+	color:#4A7729;
+	font-family: 'Open Sans', sans-serif;
 }
 .footer-widget ul li a {
 	color: #000;
-	font-family: "Open Sans";
+	font-family: 'Open Sans', sans-serif;
 }
 .footer-widget a:hover {
-	color:#2b2b2b;
-	font-family: "Open Sans";
+	color:#4A7729;
+	font-family: 'Open Sans', sans-serif;
 }
 .footer-widget a {
 	color: #000;
-	font-family: "Open Sans";
+	font-family: 'Open Sans', sans-serif;
 }
 .search-widget {
 	position: relative;
@@ -1386,9 +1386,9 @@ label {
 .search-widget input {
 	width: 100%;
 	padding: 14px 28px;
-	background: #2E2E2E;
+	background: #fff;
 	border: 1px solid #2E2E2E;
-	color: #fff;
+	color: #2E2E2E;
 }
 .search-widget button {
     position: absolute;
